@@ -1,3 +1,4 @@
+audioop-lts
 azure.cognitiveservices.speech
 Flask
 Flask_SocketIO
@@ -9,4 +10,4 @@ pygame
 pygame_ce
 pytz
 soundfile
-twitchio
+twitchio==2.10.0
